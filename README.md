@@ -1,1 +1,1 @@
-# random-ahh-adblocker-i-found-in-my-VSC-folder
+adblocker i wrote some time ago in VSC, dont forget to download the required libraries
